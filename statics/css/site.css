@@ -1,0 +1,17 @@
+body {
+	background-color: #eee;
+	/* background: linear-gradient(to right, #97543B , #DAAA7E); */
+	background-position: center,center;
+	background-size: cover;
+	max-width: 412px;
+	max-height: 736px;
+	overflow-x: hidden;
+	/* overflow-y: hidden; */
+}
+.route-like-active {
+	color:#007aff;
+}
+/* #tmpl {
+	margin-top: 40px;
+	margin-bottom: 50px;
+} */
